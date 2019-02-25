@@ -6,6 +6,7 @@ def hello_t(array)
     i = i + 1
   end
   array
+else
 end
 
 hello_t(["Tim", "Tom", "Jim"]) do |name|
